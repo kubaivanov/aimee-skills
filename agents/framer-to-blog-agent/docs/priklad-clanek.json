@@ -1,0 +1,33 @@
+{
+  "slug": "budujte-si-vlastni-ai-mozek-lokalne-proc-je-cas-vymenit-chat-za-cursor",
+  "fieldData": {
+    "Y5mUV0Wqc": {
+      "type": "string",
+      "value": "Budujte si vlastní AI mozek lokálně: Proč je čas vyměnit chat za Cursor"
+    },
+    "BDcsuTyuW": {
+      "type": "boolean",
+      "value": true
+    },
+    "JQ1tvXCfV": {
+      "type": "image",
+      "value": "https://framerusercontent.com/images/xyz123.jpg"
+    },
+    "UwWgFCEaO": {
+      "type": "date",
+      "value": "2025-11-28T00:00:00.000Z"
+    },
+    "NdkymNRAq": {
+      "type": "enum",
+      "value": "ErKWS9XfT"
+    },
+    "EArw6OEAr": {
+      "type": "formattedText",
+      "value": "<p>Ruku na srdce. Jak vypadá vaše práce s AI? Pravděpodobně otevřete prohlížeč, nalogujete se do ChatGPT nebo Clauda a začnete psát. Je to rychlé, je to pohodlné a všichni jsme si na to zvykli.</p><p>Jenže aniž bychom si to uvědomovali, pomalu se tím uzamykáme do zlaté klece.</p><h2>Proč je „lokální" AI bezpečnější a chytřejší</h2><p>Možná jste o Cursoru slyšeli jako o složitém nástroji pro programátory. Nenechte se tou nálepkou odradit. Ve skutečnosti je to aplikace, kterou si zdarma stáhnete na <a href=\"https://cursor.com\">cursor.com</a> – jednoduchý textový editor na steroidech.</p><ul><li><strong>V cloudovém chatu</strong> jste jako návštěvník v cizím domě.</li><li><strong>S Cursorem</strong> je AI hostem u vás doma.</li></ul>"
+    },
+    "LN_y5s38h": {
+      "type": "string",
+      "value": "Ruku na srdce. Jak vypadá vaše práce s AI? Pravděpodobně otevřete prohlížeč, nalogujete se do ChatGPT nebo Clauda a začnete psát. Je to rychlé, je to pohodlné a všichni jsme si na to zvykli. Jenže aniž bychom si to uvědomovali, pomalu se tím uzamykáme do zlaté klece."
+    }
+  }
+}

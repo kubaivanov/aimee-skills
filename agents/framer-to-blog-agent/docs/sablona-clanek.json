@@ -1,0 +1,33 @@
+{
+  "slug": "nazev-clanku-v-url",
+  "fieldData": {
+    "Y5mUV0Wqc": {
+      "type": "string",
+      "value": "Titulek článku (max 72 znaků)"
+    },
+    "BDcsuTyuW": {
+      "type": "boolean",
+      "value": false
+    },
+    "JQ1tvXCfV": {
+      "type": "image",
+      "value": "https://url-obrazku.jpg"
+    },
+    "UwWgFCEaO": {
+      "type": "date",
+      "value": "2025-11-28T00:00:00.000Z"
+    },
+    "NdkymNRAq": {
+      "type": "enum",
+      "value": "ErKWS9XfT"
+    },
+    "EArw6OEAr": {
+      "type": "formattedText",
+      "value": "<p>První odstavec článku.</p><h2>Nadpis sekce</h2><p>Další text...</p>"
+    },
+    "LN_y5s38h": {
+      "type": "string",
+      "value": "Text pro náhled karty - první 1-2 věty článku."
+    }
+  }
+}
