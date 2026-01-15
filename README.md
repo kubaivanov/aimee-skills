@@ -19,9 +19,9 @@ Dokumentace a podklady pro schopnosti (skills) AI asistentky Aimee.
 - Každá složka obsahuje vizuální podklady (`image.png`) a textový popis (`popis.md`).
 
 ### 📝 [prepisy-webinaru-edu/](./prepisy-webinaru-edu)
-Úložiště pro surové i zpracované přepisy vzdělávacích webinářů.
+Úložiště pro přepisy vzdělávacích webinářů.
 - Slouží jako zdrojová data pro agenty v sekci `agents/`.
-- Obsahuje soubory ve formátech `.docx` (původní) a `.md` (převedené pro další zpracování).
+- Obsahuje přepisy ve formátu `.md` připravené pro další zpracování.
 
 ---
 
