@@ -5,6 +5,12 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Prevent indexing by search engines and bots - add headers to all responses
+app.use((req, res, next) => {
+    res.setHeader('X-Robots-Tag', 'noindex, nofollow, noarchive, nosnippet, noimageindex');
+    next();
+});
+
 // Serve static files
 app.use(express.static(__dirname));
 
