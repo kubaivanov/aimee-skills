@@ -1,0 +1,12 @@
+{
+    "name": "inspirace",
+    "version": "1.0.0",
+    "description": "Inspirace - collection of ads and copy",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
