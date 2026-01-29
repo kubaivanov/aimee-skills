@@ -58,6 +58,21 @@ Tyto značky ukazují:
 3. **Responzivita**: Obrázky jsou různých velikostí, zajisti responzivní zobrazení
 4. **Alt texty**: V Markdown jsou již připravené alt texty pro přístupnost
 
+## Odkazy v článku
+
+V článku jsou již doplněné odkazy na služby a produkty Aibility:
+
+| Služba/Produkt | URL |
+|---------------|-----|
+| Future AI Leader Masterclass | https://drimalka.com/masterclass/ |
+| Aimee (AI Coach) | https://aibility.cz/aimee |
+| Test AI dovedností | https://aibility.cz/aidovednosti |
+| Aibility Club | https://aibility.cz/club |
+| Podcast Budoucnost nepráce | https://www.youtube.com/@drimalkafilip/videos |
+| Filip Dřímalka (LinkedIn) | https://www.linkedin.com/in/drimalka/ |
+| Kniha Budoucnost nepráce | https://drimalka.com/neprace/ |
+| Aibility (homepage) | https://aibility.cz |
+
 ## Poznámky
 
 - Obrázky jsou ve formátu PNG

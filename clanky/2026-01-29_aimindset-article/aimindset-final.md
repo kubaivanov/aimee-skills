@@ -221,7 +221,7 @@ Realita je taková, že lidé, kteří nejvíc potřebují AI, jsou ti, kteří 
 
 **Jak z toho ven:** Věnujte práci s AI jen 15 minut denně. Vyberte jeden opakující se úkol a zkuste ho tento týden dokončit s AI. Třeba místo psaní e-mailu od nuly (10 minut) napíšete nebo nadiktujete AI, co chcete sdělit (1 minuta) a pak ručně upravíte výstup a mail odešlete (2 minuty). AI se postupně naučí psát jako vy a měsíčně vám tak může ušetřit klidně i hodiny.
 
-Pokud vám tato strategie nefunguje, vyzkoušejte koncept "Power Hour", který propaguje **Filip Dřímalka** ve svých **Future AI Leader Masterclass**. 
+Pokud vám tato strategie nefunguje, vyzkoušejte koncept "Power Hour", který propaguje **[Filip Dřímalka](https://www.linkedin.com/in/drimalka/)** ve svých **[Future AI Leader Masterclass](https://drimalka.com/masterclass/)**. 
 
 Věnujte týdně AI aspoň hodinu hluboké práce s AI vkuse. Čím víc takových hodin týdně zvládnete, tím rychleji se budete zlepšovat a posilovat svůj AI Mindset.
 
@@ -231,7 +231,7 @@ Většina skvělých uživatelů AI se učí za pochodu. Žádné školení vám
 
 **Jak z toho ven:** Otevřete ChatGPT nebo Claude, napište do chatu „Jsem [vaše pozice] a potřebuji [úkol]. Pomoz mi." a sledujte, co se stane.
 
-Vyzkoušet taky můžete **Aimee**. Je to chat podobně jako ChatGPT, ale má jednu zásadní výhodu. Je naprogramovaná tak, aby vám pomáhala využít AI tak, jak potřebujete právě vy. Jakoby vedle vás seděla zkušenější kolegyně a přímo při práci vám radila, jak to udělat trochu líp.
+Vyzkoušet taky můžete **[Aimee](https://aibility.cz/aimee)**. Je to chat podobně jako ChatGPT, ale má jednu zásadní výhodu. Je naprogramovaná tak, aby vám pomáhala využít AI tak, jak potřebujete právě vy. Jakoby vedle vás seděla zkušenější kolegyně a přímo při práci vám radila, jak to udělat trochu líp.
 
 ### 3\. Zkoušel\*a jsem to\, ale dávalo mi to samé nesmysly\.
 
@@ -255,9 +255,9 @@ Paní na úklid si pomocí AI může plánovat směny. Zahradník může mít d�
 
 **Jak z toho ven:** Napište si seznam 10 úkolů, které děláte každý týden. U každého se zeptejte „Mohl by mi s tím pomoct chytrý asistent?" Vyberte 3 úkoly s nejvyšším potenciálem a zkuste na nich začít pracovat společně s AI.
 
-Potřebujete inspiraci? Poslechněte si **podcast** **Budoucnost nepráce**, kde si **Filip Dřímalka** zve hosty z různých odvětví a baví se o tom, jak ve své práci využít AI. 
+Potřebujete inspiraci? Poslechněte si **[podcast Budoucnost nepráce](https://www.youtube.com/@drimalkafilip/videos)**, kde si **[Filip Dřímalka](https://www.linkedin.com/in/drimalka/)** zve hosty z různých odvětví a baví se o tom, jak ve své práci využít AI. Nebo si přečtěte jeho knihu **[Budoucnost nepráce](https://drimalka.com/neprace/)**. 
 
-Stejně tak můžete koukat pod ruce lidem, kteří s AI pracují denně. Stačí se přidat do **Aibility Clubu** a učit se vlastním tempem od těch nejlepších.
+Stejně tak můžete koukat pod ruce lidem, kteří s AI pracují denně. Stačí se přidat do **[Aibility Clubu](https://aibility.cz/club)** a učit se vlastním tempem od těch nejlepších.
 
 ***
 
@@ -397,7 +397,7 @@ A buďte taky jako Žaneta. Sdílejte své tipy a nápady k vylepšování řeš
 
 ### 5\. Filip a porovnání dvou verzí knihy
 
-Filip Dřímalka potřeboval porovnat rozdíly mezi anglickou a českou verzí knihy „Budoucnost nepráce". AI rozdělila knihu podle kapitol, nástroj Marker extrahoval text ze všech kapitol a Cursor provedl porovnání. Kompletní porovnání všech kapitol včetně citací zvládl Filip za 20 minut a stálo ho to 1,04 dolaru.
+Filip Dřímalka potřeboval porovnat rozdíly mezi anglickou a českou verzí knihy „[Budoucnost nepráce](https://drimalka.com/neprace/)". AI rozdělila knihu podle kapitol, nástroj Marker extrahoval text ze všech kapitol a Cursor provedl porovnání. Kompletní porovnání všech kapitol včetně citací zvládl Filip za 20 minut a stálo ho to 1,04 dolaru.
 
 Původní plán byl vypsat výběrové řízení na člověka, který by to dělal ručně, s odhadovanou cenou tisíce korun a týdny práce.
 
@@ -415,11 +415,11 @@ Pokud jste dočetli až sem, děkuji. Teď běžte, otevřete si jakýkoliv AI n
 
 Mějte se a ať se daří nejen v AI.
 
-Aimee, AI Coach by Aibility
+[Aimee](https://aibility.cz/aimee), AI Coach by [Aibility](https://aibility.cz)
 
 ## A co dál? Zjistěte, jak je na tom váš AI Mindset v tuto chvíli
 
-Udělejte si test AI Dovedností. Zjistěte, jak jste na tom s AI právě teď a získejte rovnou i první tipy na to, jak se zlepšit. Doporučení a tipy budou personalizované konkrétně pro vás, pro vaši práci a úkoly.
+Udělejte si **[test AI Dovedností](https://aibility.cz/aidovednosti)**. Zjistěte, jak jste na tom s AI právě teď a získejte rovnou i první tipy na to, jak se zlepšit. Doporučení a tipy budou personalizované konkrétně pro vás, pro vaši práci a úkoly.
 
 Nechte mi váš e-mail a získejte 20% slevu na test AI Dovedností.
 
@@ -461,4 +461,4 @@ Nejdůležitější je začít s jedním nástrojem, ChatGPT nebo Claude, a pak 
 
 ## 
 
-Zdroje a inspirace: *Future AI Leader Masterclass, Metodika Superpowered Professional, Aibility Club*
+Zdroje a inspirace: *[Future AI Leader Masterclass](https://drimalka.com/masterclass/), Metodika Superpowered Professional, [Aibility Club](https://aibility.cz/club)*
