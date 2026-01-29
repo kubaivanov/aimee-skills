@@ -60,7 +60,7 @@ Tyto značky ukazují:
 
 ## Odkazy v článku
 
-V článku jsou již doplněné odkazy na služby a produkty Aibility:
+V článku jsou již doplněné odkazy na služby a produkty Aibility a Filipa Dřímalky:
 
 | Služba/Produkt | URL |
 |---------------|-----|
