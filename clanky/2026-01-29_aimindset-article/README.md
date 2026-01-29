@@ -9,7 +9,6 @@
 │   ├── fail-framework-diagram.png
 │   ├── komiks-clovek-bez-vs-s-ai-mindsetem.png
 │   ├── meme-boromir-prompt-na-prvni-pokus.png
-│   ├── meme-boromir-prompt-variant.png
 │   ├── meme-change-my-mind-ai-nahradi.png
 │   ├── meme-distracted-boyfriend-ai-mindset.png
 │   ├── meme-dve-tlacitka-rucne-vs-ai.png
@@ -49,7 +48,6 @@ Tyto značky ukazují:
 | `vibe-working-dirigent-orchestr.png` | Vibe Working | Diagram dirigent (člověk) a orchestr (AI) |
 | `meme-dve-tlacitka-rucne-vs-ai.png` | Část 4: Proměna v AI-first profesionála | Meme s dvěma tlačítky - 3 hodiny ručně vs 10 minut s AI |
 | `fail-framework-diagram.png` | FAIL Framework | Diagram kroků Find, Ask, Iterate, Learn |
-| `meme-boromir-prompt-variant.png` | Začni průměrně, iteruj rychle | Alternativní Boromir meme |
 
 ## Pro webového vývojáře
 

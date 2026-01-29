@@ -339,8 +339,6 @@ Když vysvětlujete složitější problém, udělejte screenshot, nahrajte ho d
 
 Nepište dokonalý prompt, napište cokoliv. První verze bude špatná, ale dostanete rychlou odpověď. Z odpovědi zjistíte, co v promptu nejspíš chybělo, a druhá verze bude lepší. 
 
-![Alternativní meme - nemusíte napsat prompt na první pokus](images/meme-boromir-prompt-variant.png)
-
 Rychlost iterace je důležitější než kvalita prvního pokusu. Spousta lidí se zasekne na tom, že to chtějí udělat napoprvé dobře. Přitom to není potřeba.
 
 #### 5\. Změna perspektivy
